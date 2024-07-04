@@ -1,7 +1,7 @@
 # Projects related to DOM
 
 ## project link
-[Click Here!!](https://github.com/Amohanta0019/JavaScript_Projects/tree/main/01_Color%20Changer)
+[Click Here!!](https://github.com/Amohanta0019/JavaScript_Projects/tree/main/02_BMI%20Calculator)
 
 # Solution Code
 
