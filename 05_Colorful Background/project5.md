@@ -1,7 +1,7 @@
 # Projects related to DOM
 
 ## project link
-[Click Here!!](https://github.com/Amohanta0019/JavaScript_Projects/tree/main/04_Number%20Game)
+[Click Here!!](https://github.com/Amohanta0019/JavaScript_Projects/tree/main/05_Colorful%20Background)
 
 # Solution Code
 
